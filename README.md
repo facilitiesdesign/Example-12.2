@@ -1,2 +1,3 @@
 # Example-12.2
-Python code and Gurobi optimization for Example 12.2
+
+Consider Example 11.2. Assume that the furniture manufacturer has found a new machine that can do the same operations as machines 4 and 5. Although this machine costs more, the manufacturer feels that the savings in space and other factors are worth the extra cost and hence decides to purchase the new machine. The cost to move a unit load through unit distance is $1.00. The machine dimensions are given in Figure 12.6 along with the horizontal clearance required between each pair of machines and the revised frequency of trips estimated to be made per year for the foreseeable future. The machines are to be arranged so that their longer sides are parallel to the aisle. Formulate an LP model like LMIP 1 and solve it using Benders’ decomposition algorithm.
